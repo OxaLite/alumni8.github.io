@@ -1,0 +1,104 @@
+body {
+    background-image: url(https://i.pinimg.com/originals/f3/e9/c7/f3e9c7c2f747cb98d9784ef4d38a6c3f.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   }
+
+   p {
+    font-family: Helvetica;
+    font-size: 20px;
+    text-align: center;
+    color:black;
+    }
+
+   h1,h2,h3,h4,h5,h6 {
+    font-family: Helvetica;
+    text-align: center;
+    text-decoration: none;
+    display: center;
+    color: white;
+   }
+
+   table {
+    align-items: center;
+   }
+   a:link,:visited {
+    color:aqua
+   }
+
+   a:hover,:active {
+    color: white;
+   }
+   input[type=text] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    align-items: center;
+    color: white;
+    background-color: transparent;
+    transition: width 0.4s ease-in-out;
+    border: none;
+    border-bottom: 2px solid green;
+   }
+   input[type=text]:focus {
+    width: 90%;
+   }   
+   .main {
+    background-color: rgba(0,0,0,0.4);
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 30px;
+    text-align: center;
+    border: 2px;
+    border-radius: 20px;
+   }
+   .social {
+    background-color: rgba(0,0,0,0.4);
+    height: 500px;
+    width: 400px;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 30px;
+    text-align: center;
+    border: 2px;
+    border-radius: 20px;
+   }
+   .ngobrol {
+    background-color: rgba(0,0,0,0.4);
+    height: 200px;
+    width: 400px;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 30px;
+    text-align: center;
+    border: 2px;
+    border-radius: 20px;
+   }
+   .tabel {
+    background-color: rgba(0,0,0,0.4);
+    height: 1000px;
+    width: 1000px;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 20px;
+    border: 2px;
+    border-radius: 20px;
+   }
+   .main p {
+    text-align: justify;
+    color: white;
+    font-family: Helvetica;
+    font-size: 25px;
+   }
+   .main h1,h2,h3,h4,h5,h6 {
+    text-align: center;
+    color: white;
+    font-family: Helvetica;
+   }
